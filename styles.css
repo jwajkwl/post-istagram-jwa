@@ -5,7 +5,7 @@
 }
 
 #photo-boxes {
-  background-color: lightgray; /* Fondo azul solo para las fotos */
+  background-color: lightgray; 
   display: flex;
   flex-direction: column;
   align-items: center;
