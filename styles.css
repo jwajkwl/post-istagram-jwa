@@ -4,8 +4,13 @@
   align-items: center;
 }
 
+.soyYo {
+  font-size: 14px;
+  font-weight: bold;
+}
+
 #photo-boxes {
-  background-color: lightgray; 
+  background-color: lightgray; /* Fondo azul solo para las fotos */
   display: flex;
   flex-direction: column;
   align-items: center;
